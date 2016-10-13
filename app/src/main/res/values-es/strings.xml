@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Perder el tiempo</string>
+    <string name="more_random_text">More Random Text</string>
+    <string name="goodbye_you_crazy_android_app_it_has_been_nice_knowing_you">Goodbye you crazy android</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="pick_me">Llevarnos</string>
+    <string name="no_pick_me">No Pick Me</string>
+    <string name="hello_world">Hola Mundo</string>
+    <string name="user_name_edit_text">Su Nombre</string>
+    <string name="are_you_happy">Eres feliz?</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MessingAround</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="more_random_text">More Random Text</string>
+    <string name="goodbye_you_crazy_android_app_it_has_been_nice_knowing_you">Goodbye you crazy android</string>
+    <string name="user_name_edit_text">Your Name</string>
+    <string name="are_you_happy">Are you Happy?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="pick_me">Pick Me</string>
+    <string name="no_pick_me">No Pick Me</string>
+</resources>
